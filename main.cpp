@@ -23,6 +23,5 @@ int main() {
     std::cout << " - " << wboson.getName() << " (mass: " << wboson.getMass() << " MeV, spin: " << wboson.getSpin() << ")" << std::endl;
     std::cout << " - " << zboson.getName() << " (mass: " << zboson.getMass() << " MeV, spin: " << zboson.getSpin() << ")" << std::endl;
 
-
     return 0;
 }
