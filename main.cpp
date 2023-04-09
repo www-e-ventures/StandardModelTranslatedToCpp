@@ -15,7 +15,6 @@ int main() {
     Wboson wboson;
     Zboson zboson;
 
-:q~
     std::cout << "Standard Model Particles:" << std::endl;
     std::cout << " - " << electron.getName() << " (mass: " << electron.getMass() << " MeV, charge: " << electron.getCharge() << " e)" << std::endl;
     std::cout << " - " << neutrino.getName() << " (mass: " << neutrino.getMass() << " MeV, charge: " << neutrino.getCharge() << " e)" << std::endl;
