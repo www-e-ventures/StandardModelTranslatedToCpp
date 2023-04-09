@@ -1,7 +1,9 @@
 // main.cpp
 #include <iostream>
 #include "include/StandardModelParticles.h"
-
+//https://e.ventures
+//the@e.ventures
+//MIT License
 int main() {
 
     //Standard Model

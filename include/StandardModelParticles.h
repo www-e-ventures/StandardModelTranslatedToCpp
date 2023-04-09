@@ -2,6 +2,10 @@
 #ifndef STANDARD_MODEL_PARTICLES_H
 #define STANDARD_MODEL_PARTICLES_H
 
+//https://e.ventures
+//the@e.ventures
+//MIT License
+
 #include "Fermion.h"
 #include "Boson.h"
 

@@ -1,7 +1,9 @@
 // Boson.h
 #ifndef BOSON_H
 #define BOSON_H
-
+//https://e.ventures
+//the@e.ventures
+//MIT License
 #include "Particle.h"
 
 class Boson : public Particle {

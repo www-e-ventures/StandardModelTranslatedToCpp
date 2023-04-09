@@ -1,9 +1,10 @@
-//
-// Created by sea on 06/04/23.
-//
 // Particle.h
 #ifndef PARTICLE_H
 #define PARTICLE_H
+
+//https://e.ventures
+//the@e.ventures
+//MIT License
 
 #include <string>
 
